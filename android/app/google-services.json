@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654738385097",
+    "project_id": "sprintfirebase-2a281",
+    "storage_bucket": "sprintfirebase-2a281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654738385097:android:af87e76b41013a7fd90518",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shoping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQkq7TiGy4GKf4mG_IerFIsnY0B0rLaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
